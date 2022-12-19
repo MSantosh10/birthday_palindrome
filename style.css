@@ -1,0 +1,49 @@
+div{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10rem;
+    border: solid black 3px;
+    background-color: red;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15rem;
+}
+
+body{
+    background-color: navy;
+}
+h1{
+    background-color: #374151;
+    padding: 1rem;
+    border-radius: 2rem;
+    color: #F3F4F6;
+    width: 50%;
+    margin: auto;
+
+}
+input{
+    width: 30%;
+    height: 2rem;
+    margin: auto;
+    margin-top: 2rem;
+}
+button{
+    width: 15%;
+    padding: 0.5rem;
+    margin: auto;
+    margin-top: 1rem;
+    background-color: #374151;
+    border-radius: 0.5rem;
+    font-weight: bolder;
+    color: #F3F4F6;
+}
+#output{
+    margin: auto;
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+h1{
+    font-family: monospace  ;
+}
